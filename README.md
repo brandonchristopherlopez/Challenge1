@@ -102,5 +102,8 @@ Repository contains a quality README file with description, screenshot, and link
 How to Submit the Challenge
 You are required to submit BOTH of the following for review:
 
+Github Repo: https://github.com/brandonchristopherlopez/Horiseon-Social-Media-Management
+
+
 LIVE URL for Horiseon Social Media Management - https://brandonchristopherlopez.github.io/Horiseon-Social-Media-Management/
 
