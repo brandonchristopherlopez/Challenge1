@@ -103,7 +103,5 @@ Repository contains a quality README file with description, screenshot, and link
 How to Submit the Challenge
 You are required to submit BOTH of the following for review:
 
-The URL of the deployed application.
-
-The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+LIVE URL for Horiseon Social Media Management - https://brandonchristopherlopez.github.io/Horiseon-Social-Media-Management/
 
